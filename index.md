@@ -4,6 +4,12 @@
 
 ![image](/fig/zhengfan.jpg)
 
+#### Email: zhengfanwang@umass.edu
+
+#### Phone: 202-374-1285
+
+#### Resume:[Link](/doc/zhengfan_CV.pdf)
+
 ```markdown
 Syntax highlighted code block
 
