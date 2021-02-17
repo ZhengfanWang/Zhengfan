@@ -8,7 +8,7 @@
 
 #### Phone: 202-374-1285
 
-#### Resume:[Link](/doc/zhengfan_CV.pdf)
+#### [Resume:](/doc/zhengfan_CV.pdf)
 
 ```markdown
 Syntax highlighted code block
