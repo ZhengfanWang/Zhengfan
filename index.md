@@ -8,32 +8,12 @@
 
 #### Phone: 202-374-1285
 
-#### [Resume:](/doc/zhengfan_CV.pdf)
+My training and research for the past 8 years has focused on Bayesian model, variable selection, smoothing process, high dimensional longitudinal data, and clinical trial design. My current research interests include hierarchical models, variable selection in Bayesian model, the linkage between Bayes and frequentist procedures, infectious disease data like COVID19, smoothing process.
+
+#### [CV](/doc/zhengfan_CV.pdf)
+
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and [](/fig/zhengfan.jpg)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zhengfanwang/zhengfan/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
