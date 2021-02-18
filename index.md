@@ -2,34 +2,21 @@
 
 
 
-### Markdown
+![image](/fig/zhengfan.jpg)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### Zhengfan Wang    [CV](/doc/zhengfan_CV.pdf)
+#### Email: zhengfanwang@umass.edu    Phone: 202-374-1285    
 
-```markdown
-Syntax highlighted code block
+My training and research for the past 8 years has focused on Bayesian model, variable selection, smoothing process, high dimensional longitudinal data, and clinical trial design. My current research interests include hierarchical models, variable selection in Bayesian model, the linkage between Bayes and frequentist procedures, infectious disease data like COVID19, smoothing process.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### Research
 
-1. Numbered
-2. List
+#### Bayesian model
+##### [Bayesian Hierarchical Temporal Sparse Regression Model: Estimation of Stillbirth Rate](https://arxiv.org/abs/2010.03551)
 
-**Bold** and _Italic_ and `Code` text
+![image](/fig/worldmap.png)
 
-[Link](url) and ![Image](src)
-```
+We developed a Bayesian hierarchical temporal sparse regressionmodel for estimating stillbirth rates for all countries from 2000 to 2019. The model combines covariates with a temporal smoothing process so that estimates are data-driven in country-periods with high-quality data and determined by covariates for country-periods with limited or no data. Horseshoepriors are used to encourage sparseness. The model is used by the UN Inter-agency Group for Child Mortality Estimation to monitor the stillbirth rate for all countries. The work is supported by the Bill & Melinda Gates Foundation, UNICEF, and the National Institute of Environmental Health Sciences of the National Institutes of Health. The work is submitted to AOAS and under review. 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zhengfanwang/zhengfan/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
