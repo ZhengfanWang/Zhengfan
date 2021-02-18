@@ -12,7 +12,7 @@ My training and research for the past 8 years has focused on Bayesian model, var
 
 
 
-```markdown
+```
 # Bayesian model
 ### Estimation of Stillbirth Rate
 ```
