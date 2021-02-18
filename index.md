@@ -13,7 +13,7 @@ My training and research for the past 8 years has focused on Bayesian model, var
 ### Research
 
 #### Bayesian model
-##### Bayesian Hierarchical Temporal Sparse Regression Model: Estimation of Stillbirth Rate [arXiv Link](https://arxiv.org/abs/2010.03551)
+##### Bayesian Hierarchical Temporal Sparse Regression Model: Estimation of Stillbirth Rate [Link](https://arxiv.org/abs/2010.03551)
 
 ![image](/fig/worldmap.png)
 
@@ -22,4 +22,6 @@ We developed a Bayesian hierarchical temporal sparse regressionmodel for estimat
 
 #### Variable selection
 
-#### Clinical trail design
+#### Clinical trial design
+##### Computation of the Properties of Multi-Stage Clinical Trial Design Based on SCPRT [Link](https://www.longdom.org/open-access/computation-of-the-properties-of-multistage-clinical-trial-design-basedon-scprt-2167-0870-1000274.pdf)
+Multi-stage clinical trial allows the trial to stop early for pronounced treatment effect or the lack of it thereof based on data accumulated at the intermediate stage. The sequential conditional probability ratio test (SCPRT) approach is derived based on the concept of discordance probability, namely, the probability that the decision to accept or reject the null hypothesis based on interim data would reverse should the trial continue to the planned end. However, in the existing SCPRTs, the discordance probability, type I error and power are not easy to compute. Here we investigate a simulation based method to compute these quantities and apply them to a real data problem as an illustration.
