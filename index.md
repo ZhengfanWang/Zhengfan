@@ -6,10 +6,11 @@
 
 #### Zhengfan Wang    
 <object>
-    <embed src="https://github.com/zhengfanwang/zhengfan/blob/gh-pages/doc/Zhengfan%20Wang_CV.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/zhengfanwang/zhengfan/blob/gh-pages/doc/Zhengfan%20Wang_CV.pdf">Download PDF</a>.</p>
+    <embed>
+        <p><a href="https://github.com/zhengfanwang/zhengfan/blob/gh-pages/doc/Zhengfan%20Wang_CV.pdf">CV</a>.</p>
     </embed>
 </object>
+
 #### Email: zhengfanwang@umass.edu    Phone: 202-374-1285    
 
 My training and research for the past 8 years has focused on Bayesian model, variable selection, smoothing process, high dimensional longitudinal data, and clinical trial design. My current research interests include hierarchical models, variable selection in Bayesian model, the linkage between Bayes and frequentist procedures, infectious disease data like COVID19, smoothing process.
