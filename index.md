@@ -4,7 +4,8 @@
 
 ![image](/fig/zhengfan.jpg)
 
-#### Zhengfan Wang    <object>
+#### Zhengfan Wang    
+<object>
     <embed src="https://github.com/zhengfanwang/zhengfan/blob/gh-pages/doc/Zhengfan%20Wang_CV.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/zhengfanwang/zhengfan/blob/gh-pages/doc/Zhengfan%20Wang_CV.pdf">Download PDF</a>.</p>
     </embed>
