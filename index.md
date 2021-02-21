@@ -17,7 +17,7 @@ My training and research for the past 8 years has focused on Bayesian model, var
 
 ### Research
 
-#### Bayesian model
+#### Bayesian modeling
 ##### Bayesian Hierarchical Temporal Sparse Regression Model: Estimation of Stillbirth Rate [Link](https://arxiv.org/abs/2010.03551)
 
 ![image](/fig/worldmap.png)
