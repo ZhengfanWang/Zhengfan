@@ -4,7 +4,7 @@
 
 ![image](/fig/zhengfan.jpg)
 
-#### Zhengfan Wang    
+#### Zhengfan Wang   
 <object>
     <embed>
         <p><a href="https://github.com/zhengfanwang/zhengfan/blob/gh-pages/doc/Zhengfan%20Wang_CV.pdf">CV</a></p>
