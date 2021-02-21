@@ -8,7 +8,7 @@
 <object>
     <embed>
         <p><a href="https://github.com/zhengfanwang/zhengfan/blob/gh-pages/doc/Zhengfan%20Wang_CV.pdf">CV</a></p>
-    </embed>
+    
 </object>
 
 #### Email: zhengfanwang@umass.edu    Phone: 202-374-1285    
